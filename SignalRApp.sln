@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRApp", "SignalRApp\SignalRApp.csproj", "{D6E3D6DD-13CF-4CFC-B129-6A9FDF452A49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{3787DF61-721A-4A2C-9CD9-7C923735C4A4}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\ASP.NET SignalR Hubs API Guide - JavaScript Client _ Microsoft Docs (1).html = Docs\ASP.NET SignalR Hubs API Guide - JavaScript Client _ Microsoft Docs (1).html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ROOT", "ROOT", "{768EAF59-4ADD-4E01-9CD5-21A53A30A81E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E3D6DD-13CF-4CFC-B129-6A9FDF452A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E3D6DD-13CF-4CFC-B129-6A9FDF452A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E3D6DD-13CF-4CFC-B129-6A9FDF452A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E3D6DD-13CF-4CFC-B129-6A9FDF452A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3787DF61-721A-4A2C-9CD9-7C923735C4A4} = {768EAF59-4ADD-4E01-9CD5-21A53A30A81E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52944F75-F9D4-4DE9-B232-AC9A53E9F9AE}
+	EndGlobalSection
+EndGlobal
